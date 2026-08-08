@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/hello-shiva/Leetcode_practices/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/hello-shiva/Leetcode_practices/tree/master/0050-powx-n) |
 ## Array
 |  |
 | ------- |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/hello-shiva/Leetcode_practices/tree/master/0169-majority-element) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/hello-shiva/Leetcode_practices/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
